@@ -31,3 +31,13 @@ User Preferences: Explore viewing patterns and preferences, including genre and 
 Trend Identification: Identify trends in content consumption over time.
 Content Recommendations: Develop insights to improve content recommendations based on user behavior.
 
+# Pizza Sales Analysis
+Project Overview:
+The Pizza Sales Analysis project focuses on analyzing sales data from a pizza restaurant to understand sales performance, customer preferences, and operational efficiency.
+
+Key Objectives:
+
+Sales Performance: Assess overall sales performance, including sales by pizza type, size, and topping.
+Customer Preferences: Explore customer preferences based on order history and purchasing patterns.
+Sales Trends: Identify trends in pizza sales, including peak sales times and popular combinations.
+Operational Insights: Analyze operational efficiency, including order fulfillment times and inventory management.
